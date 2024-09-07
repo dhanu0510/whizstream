@@ -2,6 +2,14 @@
 
 This project deploys a multi-tier web application architecture on Amazon Web Services (AWS) using Amazon Elastic Compute Cloud (EC2) instances. The architecture leverages various AWS services to achieve high availability, scalability, and security.
 
+# Code
+
+1. Frontend (React) :  https://github.com/youtubeMini/WhizStream_Frontend
+2. Backend (Nodejs) : https://github.com/youtubeMini/WhizStream_Backend
+3. S3 Presigned URL (Lmabda) : https://github.com/youtubeMini/s3-signed-url-lambda
+4. Video Processing (Ec2) : https://github.com/youtubeMini/video_processing
+   
+
 <img src="aws.png" style="background-color: white; padding: 10px">
 
 **Key Components:**
