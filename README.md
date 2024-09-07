@@ -2,7 +2,7 @@
 
 This project deploys a multi-tier web application architecture on Amazon Web Services (AWS) using Amazon Elastic Compute Cloud (EC2) instances. The architecture leverages various AWS services to achieve high availability, scalability, and security.
 
-<img src="aws.drawio.svg" style="background-color: white; padding: 10px">
+<img src="aws.png" style="background-color: white; padding: 10px">
 
 **Key Components:**
 
@@ -18,7 +18,7 @@ This project deploys a multi-tier web application architecture on Amazon Web Ser
 
 ## Uploading and Processing Videos
 
-<img src="services.drawio.svg" style="background-color: white; padding: 10px">
+<img src="services.png" style="background-color: white; padding: 10px">
 
 This section outlines the process for uploading videos to Amazon S3 storage and processing them using AWS Lambda functions.
 
